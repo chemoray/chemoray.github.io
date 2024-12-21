@@ -28,7 +28,7 @@ Where There Is a Will, There Is a Way.
 
 # 📖 Educations
 - *2023.09 - now*, Master, National University of Defense Technology. 
-- *2019.09 - 2023.06*, Undergraduate, School of Computer Science and Information Engineering, Hefei University of Technology.
+- *2019.09 - 2023.06*, Bachelor’s Degree in Computer Science, School of Computer Science and Information Engineering, Hefei University of Technology.
 
 
 
